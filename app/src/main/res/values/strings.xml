@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PSP_practica1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="et_url">Image URL</string>
+    <string name="et_nombre">Image Name</string>
+    <string name="rb_public">Public External Memory</string>
+    <string name="rb_private">Private External Memory</string>
+    <string name="bt_descarga">Download</string>
+    <string name="msg_error">Wrong Image</string>
+
+</resources>
